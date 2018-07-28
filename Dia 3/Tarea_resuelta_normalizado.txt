@@ -1,0 +1,14 @@
+usuario
+	id_usuario	nombres		apellidos	sexo	provincia	id_depto
+empresa
+	id_empresa	empresa		id_ciudad
+ciudad
+	id_ciudad	nombre_ciudad	
+depto
+	id_depto	nombre_depto	id_empresa
+telefono
+	id_telf		telefono	id_suario
+idiomas
+	id_idioma	idioma		id_usuario
+e-mail	
+	id_email	e-mail		id_usuario
